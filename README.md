@@ -1,8 +1,6 @@
 
 # About this App
 
-![App UI](https://github.com/Jerrysuper123/reactProject1/blob/main/project1/App.png)
-
 This blog is a full-stack web app created to pen down my thoughts on business and technology.
 
 This app is currently hosted on [Heroku](https://vast-ocean-04071.herokuapp.com/).
@@ -15,7 +13,7 @@ If you wished to download this code base, use below code to start your app in lo
 
 # Design architecture
 
-![design](https://github.com/Jerrysuper123/reactProject1/blob/main/project1/jokeApp.png)
+![design](https://github.com/Jerrysuper123/blog/blob/master/blog.png)
 
 * MVC (model-view-controller) pattern is applied to this full stack app.
 * Model - used MongoDB and MongoDB Atlas as the cloud database
